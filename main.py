@@ -134,17 +134,17 @@ while True:
 
     # Wait until any Brick Button is pressed.
     #while not any(ev3.buttons.pressed()):
-        wait(10)
+        #wait(10)
 
     # Check whether Up Button is pressed, and increase the steps
     # variable by 1 if it is.
     #if Button.UP in ev3.buttons.pressed():
-        steps += 1
+        #steps += 1
 
     # Check whether Down Button is pressed, and decrease the steps
     # variable by 1 if it is.
     #elif Button.DOWN in ev3.buttons.pressed():
-        steps -= 1
+       # steps -= 1
         # Make sure the steps variable is not a negative number.
         #if steps < 0:
         #    steps = 0
