@@ -115,7 +115,7 @@ while True:
     
     # LINIE FAHREN MIT REAKTION AUF FARBEN
     
-    
+    # Hier Änderungen von Paul Truger
     
     # DIES LOGGT ZEIT UND RICHTUNG IN EINER CSV Datei auf dem BRICK
     #richtung = 'rechts'
